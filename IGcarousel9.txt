@@ -1,1 +1,3 @@
 External scripts are practical when the same code is used in many different web pages.
+External scripts are saved with the file extension .js  E.g 'index.js'
+External scripts can not contain the <script> tag.
