@@ -1,0 +1,1 @@
+External scripts are practical when the same code is used in many different web pages.
